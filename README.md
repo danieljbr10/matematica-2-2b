@@ -9,18 +9,18 @@
     </head>
     <body>
         <ul>
-            <li><a href="">google</https://www.google.com/?hl=pt-BR<a>/li>
-            <li><li><a href="">https://www.youtube.com/</>youtube<a></li>
-            <li><li><a href="">https://www.kwai.com/</>kwai<a></li>
-            <li><li><a href="">https://ge.globo.com/</>globo esporte<a></li>
-            <li><li><a href="">https://g1.globo.com/</>g1<a></li>
+            <li><a href="https://www.google.com/">google</a></li>
+            <li><a href="https://www.youtube.com/">youtube</a></li>
+            <li><a href="https://www.kwai.com/">kwai</a></li>
+            <li><a href="https://ge.globo.com/">globo esporte</a></li>
+            <li><a href="https://g1.globo.com/">g1</a></li>
         </ul>
         <ol>
-            <li>terra</li>
-            <li>uol</li>
-            <li>cbf</li>
-            <li>globo</li>
-            <li>sbt</li>
+            <li><a href="https://www.terra.com.br/"></a>terra</a></li>
+            <li><a href="https://www.uol.com.br/">uol</a></li>
+            <li><a href="">cbf</a></li>
+            <li><a href="">globo</a></li>
+            <li><a href="">sbt</a></li>
         </ol>
     </body>
 </html>
